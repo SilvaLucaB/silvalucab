@@ -4,7 +4,6 @@
 - 👨🏽‍💻 Estou estudando para me tornar um Analista de Dados 🎲
 - 📫 Contate-me no e-mail: silvaluca343@gmail.com 📩
 - 💬 Me pergunte sobre: cubos mágicos 🪀
-- 😄 Pronomes: ele/dele 🙋🏽‍♂️
 
 ##
 <div style="display: inline_block"><br>
